@@ -1,1 +1,2 @@
 Another file
+also with a second line
