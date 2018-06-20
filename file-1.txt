@@ -1,2 +1,1 @@
 first text file
-with another line
