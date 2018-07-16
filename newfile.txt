@@ -1,5 +1,5 @@
 Here's a big new file to play with
-Nano is superior to vim
+vim is superior to nano
 
 Some more text here
 And some here
