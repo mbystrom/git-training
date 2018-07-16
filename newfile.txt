@@ -1,2 +1,5 @@
-Heres some file to play with
+Here's a big new file to play with
 vim is superior to nano
+
+Some more text here
+And some here
